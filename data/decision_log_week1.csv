@@ -1,0 +1,13 @@
+dataset,step,before,after,affected
+transactions,Remove exact duplicates,25562,25532,30
+transactions,Standardize store IDs,25532,25532,4345
+transactions,Parse nonmissing timestamps,25532,25532,24648
+transactions,Flag missing / unparseable timestamps,25532,25532,884
+transactions,Create daily date keys,25532,25532,24648
+transactions,Clean formatted unit prices,25532,25532,4329
+transactions,Flag missing/unparseable unit prices,25532,25532,0
+transactions,Flag negative quantities,25532,25532,130
+transactions,Flag missing/unparseable quantities,25532,25532,0
+transactions,Standardize SKU formatting,25532,25532,0
+transactions,Standardize category formatting and aliases,25532,25532,18744
+store_locations,Consolidate duplicate store ID aliases,14,12,2

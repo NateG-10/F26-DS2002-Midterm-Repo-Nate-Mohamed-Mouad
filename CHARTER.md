@@ -1,7 +1,7 @@
 # Team charter: M&Ms
 
 ## Members
-- Nate (GitHub: NateG_10)
+- Nate (GitHub: NateG-10)
 - Mohamed (GitHub: Moehassan09)
 - Mouad (GitHub: Mouad-Tazka)
 
