@@ -1,0 +1,19 @@
+file,issue,decision,rows_affected,reason
+walmart_transactions.csv,Exact duplicate rows,Remove exact duplicates,30,Avoid counting the same transaction twice
+walmart_transactions.csv,Missing/unparseable timestamps,Keep; exclude from daily comparisons only,884,An unknown timestamp cannot be assigned a date
+walmart_transactions.csv,Negative reported quantities,Flag possible returns; omit from gross demand,130,Negative quantities are not new purchases
+walmart_transactions.csv,Inconsistent store-ID formatting,Trim and normalize FL-### codes,4345,Enable consistent store joins
+walmart_transactions.csv,Category aliases,Apply documented category standardization,18744,Avoid splitting categories across multiple names
+walmart_transactions.csv,Formatted text prices,Remove currency formatting and convert to numeric,4332,Support valid numeric analysis
+store_locations.csv,Duplicate store aliases,Normalize store IDs and remove consistent duplicates,2,Preserve one store reference per store
+store_locations.csv,Inconsistent Florida state labels,Standardize to FL,4,Make store metadata consistent
+store_locations.csv,Region whitespace,Strip leading/trailing whitespace,1,Avoid duplicate region labels
+store_locations.csv,Missing Tallahassee coordinates,Retain sales; exclude only from distance calculations,1,Do not invent coordinates
+product_catalog.csv,Multiple SKU codes per product family,Group 45 SKUs into 20 proposed families,45,See combined demand while retaining SKU identity
+product_catalog.csv,Different package descriptions within families,Flag differences for business review,37,Family membership does not prove item interchangeability
+distribution_centers.csv,Approximate surge capacity (~750),Preserve approximate status; exact value unknown,1,Don't use an estimate as an exact capacity limit
+distribution_centers.csv,Missing cost per shipment,Preserve missing value; don't fabricate cost,1,Avoid misleading shipment-cost calculations
+inventory_and_sales.db / daily_sales_summary,Mixed SQL date formats,Normalize dates in SQL before filtering,218,Otherwise 218 sales rows would be excluded
+inventory_and_sales.db / inventory_levels,Inventory SKUs absent from catalog,Flag missing catalog matches; preserve snapshots,355,Unknown codes require investigation
+inventory_and_sales.db,Store-ID validation across both tables,Check IDs against cleaned store reference,0,"7,920 records inspected; no unmatched store IDs"
+CSV versus SQLite,Different absolute Entertainment sales quantities,Compare indexed trends and percentage changes,0,30 dates compared; absolute units remain unreconciled

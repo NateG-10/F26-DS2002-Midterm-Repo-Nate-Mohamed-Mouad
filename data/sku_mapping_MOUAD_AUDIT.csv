@@ -1,0 +1,46 @@
+sku,product_name,category,subcategory,unit_cost,supplier,package_size,sku_clean,category_clean,product_family,mapping_status
+PT-12,pop-tarts strawberry,Breakfast Foods,,1.93,Johnson & Johnson,4-pack,PT-12,Breakfast,Strawberry Pop-Tarts,Proposed family - check package size and supplier
+SKU#459812,Strawberry Pop-Tart,Breakfast,Pop-Tarts,2.26,Roku Inc,4pk,SKU#459812,Breakfast,Strawberry Pop-Tarts,Proposed family - check package size and supplier
+POPTART-STRAW,Pop-Tarts Strawberry,Breakfast,,2.11,Sara Lee,6 pack,POPTART-STRAW,Breakfast,Strawberry Pop-Tarts,Proposed family - check package size and supplier
+PT_STRAWBERRY,pop-tarts strawberry,breakfast,Pop-Tarts,,Campbell's,4 pack,PT_STRAWBERRY,Breakfast,Strawberry Pop-Tarts,Proposed family - check package size and supplier
+WTR-24,BOTTLED WATER 24PK,Emergency Supplies,Bottled,2.64,Sara Lee,1 pack,WTR-24,Emergency,Bottled Water (review pack size),Proposed family - check package size and supplier
+WATER24PK,Bottled Water 24-Pack,Emergency,Bottled,2.38,Sara Lee,24 pack,WATER24PK,Emergency,Bottled Water (review pack size),Proposed family - check package size and supplier
+WTR_24PK,Water - 24 Pack,Emergency,,2.08,Frito-Lay,1 pack,WTR_24PK,Emergency,Bottled Water (review pack size),Proposed family - check package size and supplier
+BATT-100,BATTERIES AA 4PK,Emergency Supplies,AA,,3M Company,6 pack,BATT-100,Emergency,AA Batteries (review pack size),Proposed family - check package size and supplier
+BAT-AA4,AA Batteries 4-Pack,Emergency Supplies,AA,4.16,Kimberly-Clark,4pk,BAT-AA4,Emergency,AA Batteries (review pack size),Proposed family - check package size and supplier
+BATT_AA_4PK,AA Batteries 4-Pack,Emergency,AA,3.71,Anheuser-Busch,24 pack,BATT_AA_4PK,Emergency,AA Batteries (review pack size),Proposed family - check package size and supplier
+FLASH-01,FLASHLIGHT LED,Emergency,Flashlight,,Frito-Lay,6-pack,FLASH-01,Emergency,LED Flashlight,Proposed family - check package size and supplier
+LED-FLASH,FLASHLIGHT LED,EMERGENCY,,8.2,Frito-Lay,single,LED-FLASH,Emergency,LED Flashlight,Proposed family - check package size and supplier
+BEER-24,Light Beer (24-pack),Alcoholic Beverages,,9.62,Hasbro,bundle,BEER-24,Alcohol,Light Beer,Proposed family - check package size and supplier
+LTBEER24,Light Beer (24-pack),ALCOHOL,Light,7.61,Kellogg's,bundle,LTBEER24,Alcohol,Light Beer,Proposed family - check package size and supplier
+BG-MONO,Monopoly Board Game,ENTERTAINMENT,,9.96,Kimberly-Clark,1pk,BG-MONO,Entertainment,Monopoly Board Game,Proposed family - check package size and supplier
+MONOPOLY-01,Monopoly Board Game,entertainment,,12.51,Georgia-Pacific,24-pack,MONOPOLY-01,Entertainment,Monopoly Board Game,Proposed family - check package size and supplier
+GAME-MONO,Board Game - Monopoly,ENTERTAINMENT,,,Campbell's,1pk,GAME-MONO,Entertainment,Monopoly Board Game,Proposed family - check package size and supplier
+CARDS-01,Playing Cards,ENTERTAINMENT,Playing,2.45,J.M. Smucker,4pk,CARDS-01,Entertainment,Playing Cards,Proposed family - check package size and supplier
+PLAYCARD-STD,PLAYING CARDS,entertainment,Playing,2.39,Georgia-Pacific,24-pack,PLAYCARD-STD,Entertainment,Playing Cards,Proposed family - check package size and supplier
+STREAM-01,Roku Streaming Stick,Electronics,Streaming,16.7,3M Company,12 pack,STREAM-01,Electronics,Streaming Devices (review model),Proposed family - check package size and supplier
+ROKU-STD,Streaming Device,electronics,Streaming,16.99,Anheuser-Busch,12 pack,ROKU-STD,Electronics,Streaming Devices (review model),Proposed family - check package size and supplier
+SOUP-CAN,Soup - Canned,Groceries,Canned,1.23,J.M. Smucker,single,SOUP-CAN,Grocery,Canned Soup,Proposed family - check package size and supplier
+CNSOUP-01,Canned Soup,GROCERY,,1.19,Generic Supplier,single,CNSOUP-01,Grocery,Canned Soup,Proposed family - check package size and supplier
+BREAD-WH,WHITE BREAD,Grocery,Bread,1.53,Procter & Gamble,24-pack,BREAD-WH,Grocery,White Bread,Proposed family - check package size and supplier
+WHITEBREAD,WHITE BREAD,grocery,Bread,1.12,Sara Lee,24 pack,WHITEBREAD,Grocery,White Bread,Proposed family - check package size and supplier
+PB-16,PEANUT BUTTER,GROCERY,Peanut,1.36,Hasbro,bundle,PB-16,Grocery,Peanut Butter,Proposed family - check package size and supplier
+PNUTBTR-16,Peanut Butter,GROCERY,Peanut,1.94,Sara Lee,1-pack,PNUTBTR-16,Grocery,Peanut Butter,Proposed family - check package size and supplier
+CNDL-EM,Candles (Emergency),EMERGENCY,Candles,3.81,Frito-Lay,1 pack,CNDL-EM,Emergency,Emergency Candles,Proposed family - check package size and supplier
+CANDLE-EMRG,Emergency Candles,EMERGENCY,Candles,3.43,Roku Inc,24pk,CANDLE-EMRG,Emergency,Emergency Candles,Proposed family - check package size and supplier
+FAID-01,First-Aid Kit,health,First,6.9,Anheuser-Busch,4 pack,FAID-01,Health,First-Aid Kit,Proposed family - check package size and supplier
+FIRSTAID-KIT,First Aid Kit,health,,7.85,J.M. Smucker,4 pack,FIRSTAID-KIT,Health,First-Aid Kit,Proposed family - check package size and supplier
+CHRG-PORT,PORTABLE CHARGER,ELECTRONICS,,11.99,Georgia-Pacific,single,CHRG-PORT,Electronics,Portable Chargers,Proposed family - check package size and supplier
+PORTCHARGER,Portable Phone Charger,ELECTRONICS,Portable,15.03,Johnson & Johnson,12 pack,PORTCHARGER,Electronics,Portable Chargers,Proposed family - check package size and supplier
+CHIPS-VP,Variety Pack - Chips,snacks,Chips,4.03,Frito-Lay,single,CHIPS-VP,Snacks,Chips Variety Pack,Proposed family - check package size and supplier
+CHIPVARIETY,Chips Variety Pack,Snacks,Chips,4.11,Generic Supplier,4-pack,CHIPVARIETY,Snacks,Chips Variety Pack,Proposed family - check package size and supplier
+PTOWEL-6,Paper Towels,household,Paper,3.85,Campbell's,4 pack,PTOWEL-6,Household,Paper Towels,Proposed family - check package size and supplier
+PAPERTOWEL6,Paper Towels,HOUSEHOLD,Paper,5.09,Georgia-Pacific,12-pack,PAPERTOWEL6,Household,Paper Towels,Proposed family - check package size and supplier
+TP-12,TOILET PAPER 12PK,household,Toilet,5.58,Campbell's,1 pack,TP-12,Household,Toilet Paper,Proposed family - check package size and supplier
+TOILETPAPER12,Toilet Paper 12-Roll,Household,Toilet,5.75,J.M. Smucker,24-pack,TOILETPAPER12,Household,Toilet Paper,Proposed family - check package size and supplier
+DIAP-S3,Baby Diapers - Size 3,baby,Diapers,14.4,Procter & Gamble,single,DIAP-S3,Baby,Size 3 Diapers,Proposed family - check package size and supplier
+DIAPERS-3,DIAPERS SZ 3,Baby Products,Diapers,13.59,Generic Supplier,6 pack,DIAPERS-3,Baby,Size 3 Diapers,Proposed family - check package size and supplier
+BFORM-01,Infant Formula,Baby,Baby,18.87,Procter & Gamble,4-pack,BFORM-01,Baby,Baby Formula,Proposed family - check package size and supplier
+BABYFORMULA,Baby Formula,Baby,,18.25,Sara Lee,6 pack,BABYFORMULA,Baby,Baby Formula,Proposed family - check package size and supplier
+TARP-HD,Heavy Duty Tarp,Emergency,,11.9,J.M. Smucker,12 pack,TARP-HD,Emergency,Heavy-Duty Tarp,Proposed family - check package size and supplier
+HDTARP-01,TARP - HEAVY DUTY,emergency,Tarp,,J.M. Smucker,24pk,HDTARP-01,Emergency,Heavy-Duty Tarp,Proposed family - check package size and supplier
